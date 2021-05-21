@@ -5,3 +5,4 @@ Lectures Completed on 21/5/21:
 * Understanding Notifications
 * Sending Local Notifications
 * Getting Permissions
+* Controlling How Notifications Are Displayed
