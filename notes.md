@@ -6,3 +6,4 @@ Lectures Completed on 21/5/21:
 * Sending Local Notifications
 * Getting Permissions
 * Controlling How Notifications Are Displayed
+* Reacting to Foreground Notifications
