@@ -7,3 +7,4 @@ Lectures Completed on 21/5/21:
 * Getting Permissions
 * Controlling How Notifications Are Displayed
 * Reacting to Foreground Notifications
+* Reacting to Background Notifications
