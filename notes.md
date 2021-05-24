@@ -15,3 +15,4 @@ Lectures Completed on 24/5/21:
 * Expo & Push Notifications
 * Getting a Push Token
 * Sending Push Notifications
+* Using Expo's Push Server
