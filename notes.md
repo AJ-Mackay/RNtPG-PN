@@ -17,3 +17,4 @@ Lectures Completed on 24/5/21:
 * Sending Push Notifications
 * Using Expo's Push Server
 * More on Push Tokens
+* Push Notifications in Non-Expo Managed Apps
