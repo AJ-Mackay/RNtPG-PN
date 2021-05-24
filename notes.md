@@ -13,3 +13,4 @@ Lectures Completed on 21/5/21:
 Lectures Completed on 24/5/21:
 
 * Expo & Push Notifications
+* Getting a Push Token
