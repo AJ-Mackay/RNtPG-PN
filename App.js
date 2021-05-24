@@ -75,16 +75,6 @@ export default function App() {
         body: 'This push notification was sent via the app!'
       })
     });
-    // Notifications.scheduleNotificationAsync({
-    //   content: {
-    //     title: 'My first local notification',
-    //     body: 'This is the first local notification we are sending!',
-    //     data: { mySpecialData: 'Some text' }
-    //   },
-    //   trigger: {
-    //     seconds: 10
-    //   }
-    // });
   };
 
   return (
