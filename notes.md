@@ -9,3 +9,7 @@ Lectures Completed on 21/5/21:
 * Reacting to Foreground Notifications
 * Reacting to Background Notifications
 * How Push Notifications Work
+
+Lectures Completed on 24/5/21:
+
+* Expo & Push Notifications
